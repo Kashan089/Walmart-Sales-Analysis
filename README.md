@@ -61,14 +61,14 @@ Analysis of Walmart sales data (45 stores, 99 departments, 2010-2012) examining 
 - Scatter plots for distribution analysis
 
 ## Files
-- `walmart_analysis.ipynb` - Complete Jupyter notebook with all code and outputs
+- `walmart_sales_analysis.ipynb` - Complete Jupyter notebook with all code and outputs
 - `README.md` - Project documentation
 
 ## Data Source
 Walmart Store Sales Forecasting Dataset (Kaggle)
 
 ## How to View
-1. Open `walmart_analysis.ipynb` in Jupyter Notebook or GitHub
+1. Open `walmart_sales_analysis.ipynb` in Jupyter Notebook or GitHub
 2. All outputs are visible - no need to run code
 3. Notebook shows step-by-step analysis with comments
 
